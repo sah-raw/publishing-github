@@ -1,3 +1,7 @@
+[Home](README.md) [Cast](cast.md) [Collectibles](Collectibles.md)
+
+<img src="images/logo_bigstar.svg" alt="Big star Logo" style="width:300">
+
 ---
 title: Collectibles
 layout: base.njk

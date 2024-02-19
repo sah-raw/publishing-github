@@ -1,3 +1,5 @@
+![stargazers logo](images/logo_stargazers_bug.svg)
+# Stargazers
 ---
 title: StarGazers
 img: images/group.svg

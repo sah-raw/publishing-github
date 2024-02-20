@@ -1,6 +1,6 @@
 [Home](README.md) [Cast](cast.md) [Collectibles](Collectibles.md)
 
-<img src="images/logo_stargazers_bug.svg" alt="Stargazers Logo" style="width:300">
+<img src="images/logo_stargazers_bug.svg" alt="Stargazers Logo" width="300px">
 # Stargazers
 ---
 title: StarGazers
